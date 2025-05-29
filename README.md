@@ -2,7 +2,7 @@
 ![shoukd be screenshot of the theme](screenshot.png)
 Made with minimum effort and maximum vibes. You may like it, you may not.
 
-MayLike is a theme Born out of mild boredom and just enough motivation
+MayLike is a wordpress theme Born out of mild boredom and just enough motivation
 
 This theme was built while half-lying down, possibly during a procrastination spiral.
 It’s not optimized for anything in particular, but somehow it works.
