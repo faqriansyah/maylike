@@ -1,0 +1,25 @@
+/*
+Theme Name: MayLike
+Theme URI: 
+Author: Faqriansyah
+Author URI: 
+Description: Made with minimum effort and maximum vibes. You may like it, you may not.
+Requires at least: 6.8
+Tested up to: 6.8
+Requires PHP: 5.7
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: maylike
+Tags: 
+*/
+
+.underline {
+	text-decoration: underline;
+}
+
+.wp-block-post-excerpt__excerpt {
+  word-break: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+}
