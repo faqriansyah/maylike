@@ -1,4 +1,5 @@
 # maylike
+![shoukd be screenshot of the theme](screenshot.png)
 Made with minimum effort and maximum vibes. You may like it, you may not.
 
 MayLike is a theme Born out of mild boredom and just enough motivation
